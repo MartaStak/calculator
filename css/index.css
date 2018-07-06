@@ -1,0 +1,50 @@
+body {
+    max-width: 300px;
+    margin: auto;
+}
+
+
+.rect {
+    border-color: #000;
+    background-color: #265C7C;
+    width: 320px;
+    border-width: 2px;
+    border-radius: 5%;
+    margin-top: 20px;
+}
+
+.display {
+    margin: 15px;
+    width: 260px;
+    padding: 15px 0px;
+    border-radius: 5%;
+    font-size: 24px;
+}
+
+.button,
+.fraction,
+.calc,
+.clear,
+.sqrt,
+.sqr {
+    margin: 5px;
+    width: 50px;
+    height: 30px;
+    font-size: 24px;
+}
+
+.block {
+    margin-bottom: 5px;
+}
+
+.fraction,
+.calc,
+.clear,
+.sqrt,
+.sqr {
+    background-color: #D7D795;
+}
+
+.clear {
+    background-color: #CD9DA2;
+}
